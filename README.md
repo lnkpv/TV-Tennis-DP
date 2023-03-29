@@ -3,7 +3,7 @@ This is an our project for "Digital Platforms"
 
 ***
 
-*Файл с документацией: Project-B.pdf*
+*Файл с документацией: [Project-B.pdf](https://github.com/lnkpv/TV-Tennis-DP/blob/main/Project-B.pdf)*
 ----
 ***
 **Убедительная просьба!!!**
