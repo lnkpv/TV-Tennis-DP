@@ -19,7 +19,7 @@
     
     :heavy_check_mark: Подключить cdm-8
     
-    - Создать движок (kinematic controller)
+    - [ ] Создать движок (kinematic controller)
         
         :heavy_check_mark: Определить столкновение с вертикальными бортами (флаг hit, изменение очков)
         
