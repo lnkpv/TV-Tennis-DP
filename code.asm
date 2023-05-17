@@ -128,10 +128,10 @@ is gt	#right side
 		fi
 	fi
 else #left side
-	ldi r2, 0 
+	ldi r2, 2 
 	if 
 		cmp r1, r2
-	is eq			# goal
+	is lt			# goal
 		ldi r1,15
 		ldi r2,rightBatY
 		st r2,r1
