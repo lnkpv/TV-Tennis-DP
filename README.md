@@ -9,7 +9,4 @@ This is our project for "Digital Platforms"
 ## Техническая информация 
 *Файл: [tech-info.md](https://github.com/lnkpv/TV-Tennis-DP/blob/main/tech-info.md)*
 ***
-### **Убедительная просьба!!!**
-Если вы вносите изменения, заливаете файлы, то, пожалуйста, не забывайте указывать в сообщении об этом!!!
-Не оставляйте пустые коммиты (напишите хотя бы одним словом, что вы поменяли, for example  "changes for some function/ some circuit")
-***
+
